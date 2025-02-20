@@ -2,7 +2,7 @@
 
 > Uncover hidden connections in any text corpus through powerful graph visualization
 
-![Knowledge Network Visualization](./assets/KG_banner.png)
+
 *Interactive knowledge network generated using KnowledgeVis*
 
 **Live Demo**: [Interactive Knowledge Graph Explorer](https://guneeshvats.github.io/Convert-any-Corpus-of-Text-into-a-Graph-of-Knowledge/)
