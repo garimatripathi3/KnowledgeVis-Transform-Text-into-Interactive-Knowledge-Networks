@@ -91,7 +91,7 @@ Knowledge networks unlock capabilities beyond traditional text analysis:
 | Product Documentation | ![Documentation Knowledge Graph](https://neo4j.com/wp-content/uploads/use-cases-knowledge-graph.png) | Visualize feature relationships |
 | News Articles | ![News Knowledge Graph](https://cdn.ttgtmedia.com/rms/onlineimages/enterprise_ai-knowledge_graph_example-f.png) | Track concept evolution over time |
 
-
+** Demo**: [Interactive Knowledge Graph Explorer](https://garimatripathi3.github.io/KnowledgeVis-Transform-Text-into-Interactive-Knowledge-Networks/)
 
 ## 📚 Learn More
 
