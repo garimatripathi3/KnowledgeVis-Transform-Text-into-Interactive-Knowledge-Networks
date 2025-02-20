@@ -3,8 +3,6 @@
 
 > Uncover hidden connections in any text corpus through powerful graph visualization
 
-![Knowledge Network Visualization](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*eLQ5r3LF5z9jQBWTIQJhOA.png)
-*Interactive knowledge network generated using KnowledgeVis*
 
 **Live Demo**: [Interactive Knowledge Graph Explorer](https://guneeshvats.github.io/Convert-any-Corpus-of-Text-into-a-Graph-of-Knowledge/)
 
@@ -96,24 +94,7 @@ Knowledge networks unlock capabilities beyond traditional text analysis:
 | Product Documentation | ![Documentation Knowledge Graph](https://neo4j.com/wp-content/uploads/use-cases-knowledge-graph.png) | Visualize feature relationships |
 | News Articles | ![News Knowledge Graph](https://cdn.ttgtmedia.com/rms/onlineimages/enterprise_ai-knowledge_graph_example-f.png) | Track concept evolution over time |
 
-## 🤝 Join the Community
 
-We're actively seeking contributors to help enhance KnowledgeVis. Priority improvements include:
-
-### Intelligence Enhancements
-- [ ] Semantic concept deduplication using embeddings
-- [ ] Concept filtering for noise reduction
-- [ ] Advanced contextual proximity weighting
-
-### User Experience
-- [ ] Interactive concept exploration interface
-- [ ] Topic-based navigation system
-- [ ] Custom visualization templates
-
-### Documentation
-- [ ] Domain-specific usage guides
-- [ ] Case studies and examples
-- [ ] Video tutorials
 
 ## 📚 Learn More
 
