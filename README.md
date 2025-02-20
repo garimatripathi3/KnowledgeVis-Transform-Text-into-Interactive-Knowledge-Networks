@@ -83,15 +83,7 @@ Knowledge networks unlock capabilities beyond traditional text analysis:
 4. Open and run `extract_graph.ipynb` to process your text
 5. Explore your interactive knowledge network!
 
-## 📊 Sample Visualizations
-
-| Domain | Visualization | Insights |
-|--------|---------------|----------|
-| Research Papers | ![Research Knowledge Graph](https://neo4j.com/wp-content/uploads/research-paper-knowledge-graph.png) | Identify cross-disciplinary connections |
-| Product Documentation | ![Documentation Knowledge Graph](https://neo4j.com/wp-content/uploads/use-cases-knowledge-graph.png) | Visualize feature relationships |
-| News Articles | ![News Knowledge Graph](https://cdn.ttgtmedia.com/rms/onlineimages/enterprise_ai-knowledge_graph_example-f.png) | Track concept evolution over time |
-
-** Demo**: [Interactive Knowledge Graph Explorer](https://garimatripathi3.github.io/KnowledgeVis-Transform-Text-into-Interactive-Knowledge-Networks/)
+**Demo**: [Interactive Knowledge Graph Explorer](https://garimatripathi3.github.io/KnowledgeVis-Transform-Text-into-Interactive-Knowledge-Networks/)
 
 ## 📚 Learn More
 
