@@ -3,9 +3,6 @@
 
 > Uncover hidden connections in any text corpus through powerful graph visualization
 
-
-**Live Demo**: [Interactive Knowledge Graph Explorer](https://guneeshvats.github.io/Convert-any-Corpus-of-Text-into-a-Graph-of-Knowledge/)
-
 ## 🧠 What is KnowledgeVis?
 
 KnowledgeVis transforms raw text into beautiful, interactive knowledge networks that reveal the hidden connections between concepts. Unlike traditional NLP approaches that focus on entities, KnowledgeVis captures semantic relationships between complex ideas, providing deeper insights into your content.
